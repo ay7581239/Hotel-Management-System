@@ -1,0 +1,8 @@
+==> [Customer's Name:- Aditya ] [Customer's Address:- Prayagraj ] [Mobile No.:- 9876453210 ] [Email Id:- ars@gmail.com ] [Check In:- 04/09/22 ] [Check Out:- 05/09/22 ] [No. of Days:- 1 ] [Room no.:- 23 ] [Room Charge.:- 2000 ]
+==> [Customer's Name:- Abhishek ] [Customer's Address:- Prayagraj ] [Mobile No.:- 987654321 ] [Email Id:- aky@gmail.com ] [Check In:- 01/09/22 ] [Check Out:- 05/09/22 ] [No. of Days:- 4 ] [Room no.:- 8000 ] [Room Charge.:- 8000 ]
+==> [Customer's Name:- Shiv ] [Customer's Address:- Naini ] [Mobile No.:- 9876543210 ] [Email Id:- shiv@gmail.com ] [Check In:- 09/08/22 ] [Check Out:- 10/08/22 ] [No. of Days:- 1 ] [Room no.:- 425 ] [Room Charge.:- 2000 ]
+==> [Customer's Name:- Ashish ] [Customer's Address:- Prayagraj ] [Mobile No.:- 927627269 ] [Email Id:- watrs@gmail.com ] [Check In:- 09/02/22 ] [Check Out:- 10/02/22 ] [No. of Days:- 1 ] [Room no.:- 234 ] [Room Charge.:- 2000 ]
+==> [Customer's Name:- sahil ] [Customer's Address:- allahabad ] [Mobile No.:- 8653323345 ] [Email Id:- Atrr@gmail.com ] [Check In:- 05/03/22 ] [Check Out:- 06/03/22 ] [No. of Days:- 1 ] [Room no.:- 1 ] [Room Charge.:- 2000 ]
+==> [Customer's Name:- Sudhanshu ] [Customer's Address:- 9+6451ghjbknm ] [Mobile No.:- +563461 ] [Email Id:- fcgvhj ] [Check In:- fgcggkj ] [Check Out:-  vbkjl ] [No. of Days:-  bjnkm ] [Room no.:- cgvhjk ] [Room Charge.:- 20000 ]
+==> [Customer's Name:- Anil ] [Customer's Address:- Prayagraj ] [Mobile No.:- 9876543221 ] [Email Id:- aks@gmail.com ] [Check In:- 09/07/22 ] [Check Out:- 11/07/22 ] [No. of Days:- 2 ] [Room no.:- 224 ] [Room Charge.:- 4000 ]
+
